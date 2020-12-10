@@ -13,7 +13,7 @@
 ## Scope of solution 
 - Identify `car sales data that correlate` the `sales`
 - Formation of `linear equation` for <b>sales</b> can be used for other stores?
-- Statistics- [`Python`](https://github.com/monisha-anila/Hackathons/blob/main/Chargebacks.ipynb), [`Tableau`](https://public.tableau.com/profile/monisha.anila#!/vizhome/Sampledataoncarsales/CarSales)
+- Statistics- [`Python`](https://github.com/monisha-anila/Hackathons/blob/main/Projects/Chargebacks.ipynb), [`Tableau`](https://public.tableau.com/profile/monisha.anila#!/vizhome/Sampledataoncarsales/CarSales)
 
 
 ## Constraints in solution 
@@ -26,8 +26,8 @@
 
 
 ## Data Source 
-1. [Sales data](https://github.com/monisha-anila/Hackathons/blob/main/sales_data_sample.csv)
-2. [Segmented data](https://github.com/monisha-anila/Hackathons/blob/main/Segmentation%20sales.csv)
+1. [Sales data](https://github.com/monisha-anila/Hackathons/blob/main/Projects/sales_data_sample.csv)
+2. [Segmented data](https://github.com/monisha-anila/Hackathons/blob/main/Projects/Segmentation%20sales.csv)
 - Note: Use of statistics is highly recommended because of less rows. 
 
 ## Issue Tree 
@@ -37,4 +37,4 @@
 3. `Future work`
 
 ## Presentation
--[`Technical Presentation`](https://github.com/monisha-anila/Hackathons/blob/main/Chargeback%20Presentation.pptx)
+-[`Technical Presentation`](https://github.com/monisha-anila/Hackathons/blob/main/Projects/Chargeback%20Presentation.pptx)
