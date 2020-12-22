@@ -14,9 +14,9 @@
 
 # Research NLP Classification
 - Researchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process. 
-- Given the abstracts for a set of research articles, predict the tags for each article included in the test set. Note that a research article can possibly have multiple tags. The research article abstracts are sourced from the following 4 topics: 
- - Computer Science
- - Mathematics
- - Physics
- - Statistics
+- Given the abstracts for a set of research articles, predict the tags for each article included in the test set. Note that a research article can possibly have multiple tags. - The research article abstracts are sourced from the following 4 topics: 
+    - Computer Science
+    - Mathematics
+    - Physics
+    - Statistics
 - Can you predict the tags associated with the articles? 
