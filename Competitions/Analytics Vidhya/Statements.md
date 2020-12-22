@@ -7,8 +7,16 @@
 -  Can you help the bank to predict accurately whether the customer will subscribe to the focus product for the campaign - Term Deposit after the campaign?
 
 # YouTube Likes Prediction 
-- As YouTube becomes one of the most popular video-sharing platforms, YouTuber is developed as a new type of career in recent decades.
-- YouTubers earn money through advertising revenue from YouTube videos, sponsorships from companies, merchandise sales, and donations from their fans. 
+- As YouTube becomes one of the most popular video-sharing platforms, YouTuber is developed as a new type of career in recent decades.YouTubers earn money through advertising revenue from YouTube videos, sponsorships from companies, merchandise sales, and donations from their fans. 
 - In order to maintain a stable income, the popularity of videos become the top priority for YouTubers. Meanwhile, some of our friends are YouTubers or channel owners in other video-sharing platforms. This raises our interest in predicting the performance of the video.
 - If creators can have a preliminary prediction and understanding on their videos’ performance, they may adjust their video to gain the most attention from the public.
 - Can you accurately predict the number of likes for each video using the set of input variables?
+
+# Research NLP Classification
+- Researchers have access to large online archives of scientific articles. As a consequence, finding relevant articles has become more and more difficult. Tagging or topic modelling provides a way to give clear token of identification to research articles which facilitates recommendation and search process. 
+- Given the abstracts for a set of research articles, predict the tags for each article included in the test set. Note that a research article can possibly have multiple tags. The research article abstracts are sourced from the following 4 topics: 
+ - Computer Science
+ - Mathematics
+ - Physics
+ - Statistics
+- Can you predict the tags associated with the articles? 
