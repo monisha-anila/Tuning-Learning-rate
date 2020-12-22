@@ -1,4 +1,4 @@
-# Price Prediction
+# [`Price Prediction`](https://github.com/monisha-anila/Tuning-Learning-rate/blob/main/Competitions/Machine%20Hack/Price%20Prediction.zip)
 -  In this competition, we are challenging the MachineHack community to come up with an algorithm to predict the price of retail items belonging to different categories.
 -  Foretelling the Retail price can be a daunting task due to the huge datasets with a variety of attributes ranging from Text, Numbers(floats, integers), and DateTime. Also, outliers can be a big problem when dealing with unit prices.
 
