@@ -8,6 +8,5 @@
 - Online Time spent Prediction
 
 # [`Hacker Earth`](https://github.com/monisha-anila/Tuning-Learning-rate/blob/main/Competitions/HackerEarth/HE%20Statements.md) 
-- Customer Classification
-- Price Prediction
+- Carnival Wars! [`Python Notebook`](https://github.com/monisha-anila/Tuning-Learning-rate/blob/main/Competitions/HackerEarth/Carnival_Wars!.ipynb)
 
