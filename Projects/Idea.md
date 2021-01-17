@@ -8,7 +8,7 @@
 - Economy importance influenced by PM Of India 
     - Counting economy key word apperance in PM speeches using data from [`PM Of India webisite`](https://www.pmindia.gov.in/en/)
     - Using Python Beautiful Soup for web scrapping to get the data.
-    - Detailed Analysis [`Economy`]() 
+    - Detailed Analysis [`Economy`](https://github.com/monisha-anila/Tuning-Learning-rate/blob/main/Projects/Economy.md) 
 
 
 
