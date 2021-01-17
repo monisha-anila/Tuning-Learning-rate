@@ -12,5 +12,9 @@
 - Manually searching the target will be cumbersome process. So, using Beautiful Soup package for web scraping which extracts target word count for a given website link. 
 
 
+## Programming and documentation
+- [`Python`](https://github.com/monisha-anila/Tuning-Learning-rate/blob/main/Projects/Economy.ipynb)
+- [`PDF`](https://github.com/monisha-anila/Tuning-Learning-rate/blob/main/Projects/Economy.pdf)
+
 ## Challenges 
 - The web scrapping process has lot of restrictions and needs to manual extract date from website.
