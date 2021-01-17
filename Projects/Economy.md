@@ -7,7 +7,7 @@
 
 
 ## Solution 
-- Using PM of India website URL link https://www.pmindia.gov.in/en/
+- Using PM of India website [`URL link`](https://www.pmindia.gov.in/en/)
 - Find the text speeches which has economy as a key word for past 50 speeches.
 - Manually searching the target will be cumbersome process. So, using Beautiful Soup package for web scraping which extracts target word count for a given website link. 
 
